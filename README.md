@@ -1,6 +1,6 @@
 # <p align="center"><img src="https://github.com/AndreaOliver/MavenMarket-GroceryStoreChain/blob/main/MavenMarket%20Images/logo-maven-market.png" width="400"></p>
 
-## Overview of the Maven Inspectional Services Power BI Project
+## Overview of the Maven Market Power BI Project
 
 This Power BI project is a comprehensive analysis and visualization of the Maven Market Grocery Store data. It's designed as a practical application Bonus Project of the skills taught in the "Power BI Desktop 2023" course by [Maven Analytics](https://github.com/MavenAnalytics). Key features of this project include:
 
