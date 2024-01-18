@@ -1,8 +1,8 @@
 # <p align="center"><img src="https://github.com/AndreaOliver/MavenMarket-GroceryStoreChain/blob/main/MavenMarket%20Images/logo-maven-market.png" width="400"></p>
 
-## Overview of the Maven Market Power BI Project
+## Overview of the Maven Inspectional Services Power BI Project
 
-This Power BI project is a comprehensive analysis and visualization of the Adventure Works Bike Shop data. It's designed as a practical application Bonus Project of the skills taught in the "Power BI Desktop 2023" course by [Maven Analytics](https://github.com/MavenAnalytics). Key features of this project include:
+This Power BI project is a comprehensive analysis and visualization of the Maven Market Grocery Store data. It's designed as a practical application Bonus Project of the skills taught in the "Power BI Desktop 2023" course by [Maven Analytics](https://github.com/MavenAnalytics). Key features of this project include:
 
 - Insightful Dashboard: An interactive dashboard tailored to highlight the operational metrics and KPIs crucial for a grocery store chain. It provides a quick, comprehensive overview of business performance.
 - Robust Data Models: These models are the backbone of our analysis, integrating diverse data sources to offer a complete perspective of the grocery chain's operations.
@@ -11,7 +11,7 @@ This Power BI project is a comprehensive analysis and visualization of the Adven
 
 ## Dashboard Screenshot
 
-### Topline Performance Dashboard
+### Inspections & Violations Dashboard
 <img src="https://github.com/AndreaOliver/MavenMarket-GroceryStoreChain/blob/main/MavenMarket%20Screenshots/MavenMarket-ToplinePerformanceDashboard.png">
 
 
