@@ -11,7 +11,7 @@ This Power BI project is a comprehensive analysis and visualization of the Maven
 
 ## Dashboard Screenshot
 
-### Inspections & Violations Dashboard
+### Topline Performance Dashboard
 <img src="https://github.com/AndreaOliver/MavenMarket-GroceryStoreChain/blob/main/MavenMarket%20Screenshots/MavenMarket-ToplinePerformanceDashboard.png">
 
 
