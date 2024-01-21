@@ -43,7 +43,6 @@ Step 2: Open the Project in Power BI Desktop
   <a href="https://certificates.mavenanalytics.io/ffa9bee6-7761-4f13-9ac1-0d4e06608fab"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87325450" alt="Thinking like an Analyst badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/8b7b46ab-1c06-4d33-b6b6-656cf6ae868c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88953855" alt="Power BI Desktop badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/8b7b46ab-1c06-4d33-b6b6-656cf6ae868c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92426614" alt="Power BI Service badge" height="100"/></a> 
-  <a href="https://skillshop.credential.net/1d723be1-6dff-454c-a5dd-f12e2d6d408e"><img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified badge" height="100"/></a> 
 </p>
 
 All rights reserved.
