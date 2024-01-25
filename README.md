@@ -42,7 +42,8 @@ Step 2: Open the Project in Power BI Desktop
 <p>
   <a href="https://certificates.mavenanalytics.io/ffa9bee6-7761-4f13-9ac1-0d4e06608fab"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87325450" alt="Thinking like an Analyst badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/8b7b46ab-1c06-4d33-b6b6-656cf6ae868c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88953855" alt="Power BI Desktop badge" height="100"/></a> 
-  <a href="https://certificates.mavenanalytics.io/8b7b46ab-1c06-4d33-b6b6-656cf6ae868c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92426614" alt="Power BI Service badge" height="100"/></a> 
+  <a href="https://certificates.mavenanalytics.io/c3ecb84e-390f-44b7-ae19-130e3e97a210"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92426614" alt="Power BI Service badge" height="100"/></a> 
+  <a href="https://certificates.mavenanalytics.io/ebd338bf-5fe1-4c9c-a004-0eb61bfe5740"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93159591" alt="MySQL Data Analysis" height="100"/></a> 
 </p>
 
 All rights reserved.
